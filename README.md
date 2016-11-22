@@ -19,7 +19,6 @@ npm run build
 
 1. 获取镜像
     `docker pull shipizheng/nginx`
-    `docker images` 查看是否有次镜像
 2. `sh run.docker.sh`
 3. 在浏览器中输入 `localhost`
 
